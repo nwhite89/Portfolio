@@ -15,7 +15,7 @@ export class HomeComponent implements OnInit, AfterViewInit {
     viewInit: boolean = false;
 
     private positions: string[] = [
-        'Co-founder | a Kid called Beast',
+        'Co-founder | a KID called BEAST',
         'CTO AnjiEco',
         'Software Engineer',
     ]

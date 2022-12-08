@@ -16,7 +16,7 @@ export class AboutMeComponent implements AfterViewInit {
     }[] = [
         {
             position: 'Co-founder',
-            name: 'a Kid called Beast',
+            name: 'a KID called BEAST',
             image: '/assets/img/companies/akcb.jpg',
             href: 'https://akidcalledbeast.com',
             text: 'Overseeing all development for the NFT project as Head of development.',

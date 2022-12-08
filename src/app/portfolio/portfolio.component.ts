@@ -24,7 +24,7 @@ export class PortfolioComponent implements AfterViewInit {
         {
             type: 'video',
             src: '/assets/videos/akcb.mp4',
-            name: 'a Kid called Beast',
+            name: 'a KID called BEAST',
             sub: '10,000 3D NFT collection.',
             text: 'Co-founder of AKCB | A 10,000 unique 3D NFT collection with augmented reality support.',
             video: JSON.stringify({ "source": [{ "src": "/assets/videos/akcb.mp4", "type": "video/mp4" }], "attributes": { "preload": false, "controls": false, "playsinline": true, "autoplay": true } }),
