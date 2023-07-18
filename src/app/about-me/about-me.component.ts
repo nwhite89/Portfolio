@@ -17,24 +17,17 @@ export class AboutMeComponent implements AfterViewInit {
         {
             position: 'Co-founder',
             name: 'a KID called BEAST',
-            image: '/assets/img/companies/akcb.jpg',
+            image: '/assets/img/companies/akcb.png',
             href: 'https://akidcalledbeast.com',
             text: 'Overseeing all development for the NFT project as Head of development.',
         },
-        {
-            position: 'CTO',
-            name: 'Anji Eco',
-            image: '/assets/img/companies/anji.jpg',
-            href: 'https://anji.eco',
-            text: 'Managing and developing all products within the Anji ecosystem such as AnjiSwap.com.',
-        },
-        {
-            position: 'Software Engineer',
-            name: 'Scoota',
-            image: '/assets/img/companies/scoota.png',
-            href: 'https://scoota.com',
-            text: "Working with Typescript, Angular 2, Django and Node JS to build Scoota's Rig distribuition platform allowing users to create, serve and monitor adverts programatically.",
-        },
+        // {
+        //     position: 'Software Engineer',
+        //     name: 'Scoota',
+        //     image: '/assets/img/companies/scoota.png',
+        //     href: 'https://scoota.com',
+        //     text: "Working with Typescript, Angular 2, Django and Node JS to build Scoota's Rig distribuition platform allowing users to create, serve and monitor adverts programatically.",
+        // },
     ];
 
     skills: {
