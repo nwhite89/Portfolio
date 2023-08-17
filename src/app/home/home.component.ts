@@ -16,7 +16,6 @@ export class HomeComponent implements OnInit, AfterViewInit {
 
     private positions: string[] = [
         'Co-founder | a KID called BEAST',
-        'CTO AnjiEco',
         'Software Engineer',
     ]
 
