@@ -11,7 +11,7 @@ export class CommonService {
             title: 'GitHub',
         },
         {
-            href: 'http://twitter.com/nwhite89',
+            href: 'http://x.com/nwhite',
             class: 'fa-brands fa-x-twitter',
             title: 'X',
         },
