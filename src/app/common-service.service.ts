@@ -12,8 +12,8 @@ export class CommonService {
         },
         {
             href: 'http://twitter.com/nwhite89',
-            class: 'fa-brands fa-twitter',
-            title: 'Twitter',
+            class: 'fa-brands fa-x-twitter',
+            title: 'X',
         },
         {
             href: 'http://instagram.com/nwhite89',
